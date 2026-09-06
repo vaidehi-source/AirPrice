@@ -1,0 +1,8 @@
+{
+  "name": "Remix AirPrice APIx",
+  "description": "India\u0027s real-time airfare intelligence and inflation analytics platform for citizens and policymakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
